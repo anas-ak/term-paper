@@ -1,3 +1,5 @@
+
+![rotation](https://user-images.githubusercontent.com/71920781/110458885-194d4c00-80ee-11eb-8633-f02d9a48dc44.gif)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/anas-ak/term-paper/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
